@@ -7,6 +7,9 @@ import { TodoList } from "../TodoList/index.js";
 import { TodoSearch } from "../TodoSearch/index.js";
 import { Modal } from '../Modal/index.js';
 import { TodoForm } from "../TodoForm/index.js";
+import { TodosError } from '../TodosError/index.js';
+import { TodosLoading } from '../TodosLoading/index.js';
+import { EmptyTodos } from '../EmptyTodos/index.js';
 
 function AppUI(){
 
