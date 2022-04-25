@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EngelberAmaya/TODOsReact/static/css/main.31c11ff6.css",
+    "main.css": "/EngelberAmaya/TODOsReact/static/css/main.74560eab.css",
     "main.js": "/EngelberAmaya/TODOsReact/static/js/main.a84e7fb7.js",
     "index.html": "/EngelberAmaya/TODOsReact/index.html",
-    "main.31c11ff6.css.map": "/EngelberAmaya/TODOsReact/static/css/main.31c11ff6.css.map",
+    "main.74560eab.css.map": "/EngelberAmaya/TODOsReact/static/css/main.74560eab.css.map",
     "main.a84e7fb7.js.map": "/EngelberAmaya/TODOsReact/static/js/main.a84e7fb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.31c11ff6.css",
+    "static/css/main.74560eab.css",
     "static/js/main.a84e7fb7.js"
   ]
 }
