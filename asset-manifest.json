@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EngelberAmaya/TODOsReact/static/css/main.74560eab.css",
-    "main.js": "/EngelberAmaya/TODOsReact/static/js/main.a84e7fb7.js",
-    "index.html": "/EngelberAmaya/TODOsReact/index.html",
-    "main.74560eab.css.map": "/EngelberAmaya/TODOsReact/static/css/main.74560eab.css.map",
-    "main.a84e7fb7.js.map": "/EngelberAmaya/TODOsReact/static/js/main.a84e7fb7.js.map"
+    "main.css": "/TODOsReact/static/css/main.74560eab.css",
+    "main.js": "/TODOsReact/static/js/main.a84e7fb7.js",
+    "index.html": "/TODOsReact/index.html",
+    "main.74560eab.css.map": "/TODOsReact/static/css/main.74560eab.css.map",
+    "main.a84e7fb7.js.map": "/TODOsReact/static/js/main.a84e7fb7.js.map"
   },
   "entrypoints": [
     "static/css/main.74560eab.css",
